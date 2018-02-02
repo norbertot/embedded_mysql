@@ -1,3 +1,9 @@
+/**
+ * Code taken from stackoverflow to answer a question
+ * original answer at:
+ * https://stackoverflow.com/questions/24533685/mysql-c-api-need-example-for-initiating-db-on-embedded-mode/24548826#24548826
+ */
+
 #include <my_global.h>
 #include <mysql.h>
 
